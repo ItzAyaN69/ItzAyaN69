@@ -19,10 +19,10 @@
 
 
 
-  <a href="https://github.com/VishalCodez/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=VishalCodez">
+  <a href="https://github.com/ItzAyaN69/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ItzAyaN69">
 </a>
-<a href="https://github.com/VishalCodez?tab=followers"><img src="https://img.shields.io/github/followers/VishalCodez?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ItzAyaN69?tab=followers"><img src="https://img.shields.io/github/followers/ItzAyaN69?label=Followers&style=social" alt="GitHub Badge"></a>
   </h3>
   
 
@@ -31,17 +31,8 @@
 <h3 align="center">
   ⌨️
   </p>
-    <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a> 
-    <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a> 
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a> 
-    <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="48" height="48"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/?size=96&id=vR6XrZzQr1CN&format=png" width="48" height="48"/> </a> 
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/?size=96&id=38561&format=png" width="48" height="48"/> </a> 		
- </p>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
 
 
 
