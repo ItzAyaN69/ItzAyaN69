@@ -48,7 +48,7 @@
 Reach Me On Discord
 </p>
 <a href="https://discord.gg/mlontop" target="_blank">
-	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1081263937846263869?bg=1f1f1f&borderRadius=5px&theme=:theme&showDisplayName=true">
+	<img width="50%" align="center" src="https://lanyard.cnrad.dev/api/1081263937846263869?bg=1f1f1f&borderRadius=5px&theme=:theme&showDisplayName=true">
 </p>
  <div>
 
