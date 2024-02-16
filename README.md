@@ -36,7 +36,6 @@
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a> 
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a> 
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a> 
     <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="48" height="48"/> </a> 
@@ -50,15 +49,15 @@
 	
   | _**Github Stats**_ | _**Top Languages**_ |
   | ----------- | ------------- |
-  | <img src="https://github-readme-stats.vercel.app/api?username=wthvishal&show_icons=true&theme=dark"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalcodez&layout=compact&theme=dark"/> |
+  | <img src="https://github-readme-stats.vercel.app/api?username=ItzAyaN69&show_icons=true&theme=dark"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzAyaN69&layout=compact&theme=dark"/> |
 
 
 </div>
 <h3 align="center">
 Reach Me On Discord
 </p>
-<a href="https://discord.gg/UHhyB7r267" target="_blank">
-	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1056246612789309481?bg=1f1f1f&borderRadius=5px&theme=:theme&showDisplayName=true">
+<a href="https://discord.gg/mlontop" target="_blank">
+	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1081263937846263869?bg=1f1f1f&borderRadius=5px&theme=:theme&showDisplayName=true">
 </p>
  <div>
 
